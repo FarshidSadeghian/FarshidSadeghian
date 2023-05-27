@@ -6,24 +6,16 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;Software+Engineer;AI+%26+ML+Enthusiast)](https://github.com/FarshidSadeghian)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Ph.D.+of+Biomedical+Engineering;Simon+Faraser+University;Data+Scientist;AI+%26+ML+Enthusiast)](https://github.com/FarshidSadeghian)    
 </div>
 
 # About me 
 
-As a Full-time Computer Engineering Student at the Amirkabir University of Technology (Tehran Polytechnic), I am passionate about Artificial Intelligence and Machine/Deep Learning. My expertise includes proficient programming skills in .NET, Python, and Java. With a history of working in the software industry, I have a proven track record of developing innovative software solutions for various clients.
-
-Presently, as a GoLang back-end developer at SnappTrip, I am part of a team that develops software using microservice architecture with modern and best practices software solutions. My focus is on developing high-quality software with robust features that meet the needs of our clients.
-
-Prior to my work at SnappTrip, I developed other software solutions at Mohaymen ICT Company. This experience has given me a strong foundation in software development and helped me hone my skills in creating efficient, reliable, and user-friendly software. With this experience and the knowledge gained through my studies, I am confident in my ability to continue producing high-quality software solutions.
-
-I am always eager to expand my knowledge in the field of computer engineering and am dedicated to producing high-quality work. If you have any questions or problems with my codes or knowledge, I will be more than happy to assist.
-
-Overall, I am a fast learner, highly motivated, and always eager to take on new challenges. I look forward to exploring new opportunities in the field of Artificial Intelligence and Machine/Deep Learning.
+I am a Ph.D. candidate in Biomedical Engineering specializing in data science and signal processing for health and wellness monitoring. My experience is extensive in FEM simulations, signal processing, data mining, coding with Python, MATLAB, and Fortran, as well as medical and assistive devices design and programming. I have conducted research in data analytics for health monitoring and extracting actionable information from various physiological time-series data using novel machine learning methods. My research experience and practical knowledge in machine learning and data science, background in mechanical engineering with focus on data analysis, and my knowledge in biomedical engineering, in addition to the long track record of successful and on-time project delivery have prepared me for working in multidisciplinary teams.
 
 ## Programming Languages, Technologies and Tools 
 <p align="center"> 
-<a href="https://github.com/FarshidSadeghian" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,py,c,cpp,java,vscode,visualstudio,latex&perline=18" /> </a>
+<a href="https://github.com/FarshidSadeghian" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,py,c,cpp,java,vscode,visualstudio,latex&perline=18"/> </a>
 
 
 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -92,20 +84,26 @@ Overall, I am a fast learner, highly motivated, and always eager to take on new 
 Feel free to contact me via the following links:
 
 <div align="center">
-        <a href="https://www.linkedin.com/in/farshidnooshi/">
-            <img alt="Farshid Nooshi's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
+        <a href="https://www.linkedin.com/in/farshidsadeghian/">
+            <img alt="Farshid Sadeghian's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
-        <a href="mailto:farshidnooshi726@hotmail.com">
-            <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
+                <a href="mailto:sadeghian.f92@gmail.com">
+            <img src="https://img.icons8.com/color/512/228BE6/gmail.png" width=32/>
+        </a>
+        <a href="mailto:farshids@sfu.ca">
+            <img alt="Farshid Sadeghian's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
         </a>
         <a href="https://www.kaggle.com/nooshifarshid">
             <img src="https://img.icons8.com/windows/512/228BE6/kaggle.png" width=32/>
         </a>
-        <a href="https://www.instagram.com/farshidnooshi/">
-            <img alt="Farshid Nooshi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
+        <a href="https://www.instagram.com/farshidsadeghian/">
+            <img alt="Farshid Sadeghian's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
-        <a href="https://farshidnooshi.github.io/">
-            <img alt="Farshid Nooshi's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
+        <a href="https://farshidsadeghian.github.io/">
+            <img alt="Farshid Sadeghian's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
+        </a>
+        <a href="tel:604-518-4677">
+            <img alt="Farshid Sadeghian's personal webpage" src="https://img.icons8.com/fluency/50/000000/phone.png" width=32/>
         </a>
 </div>
 
