@@ -101,7 +101,7 @@ Feel free to contact me via the following links:
         <a href="https://farshidsadeghian.github.io/">
             <img alt="Farshid Sadeghian's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a>
-        <a href="tel:604-518-4677">
+        <a href="tel:+16045184677">
             <img alt="Farshid Sadeghian's personal webpage" src="https://img.icons8.com/fluency/50/000000/phone.png" width=32/>
         </a>
 </div>
