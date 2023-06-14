@@ -75,7 +75,6 @@ I am a Ph.D. candidate in Biomedical Engineering specializing in data science an
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidSadeghian&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/FarshidSadeghian)
 
-[![Farshid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FarshidSadeghian&theme=dracula)](https://github.com/FarshidSadeghian)
 
 </p>
 
@@ -87,13 +86,13 @@ Feel free to contact me via the following links:
         <a href="https://www.linkedin.com/in/farshidsadeghian/">
             <img alt="Farshid Sadeghian's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
-                <a href="mailto:sadeghian.f92@gmail.com">
+        <a href="mailto:sadeghian.f92@gmail.com">
             <img src="https://img.icons8.com/color/512/228BE6/gmail.png" width=32/>
         </a>
         <a href="mailto:farshids@sfu.ca">
             <img alt="Farshid Sadeghian's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
         </a>
-        <a href="https://www.kaggle.com/nooshifarshid">
+        <a href="https://www.kaggle.com/farshidsadeghian">
             <img src="https://img.icons8.com/windows/512/228BE6/kaggle.png" width=32/>
         </a>
         <a href="https://www.instagram.com/farshidsadeghian/">
